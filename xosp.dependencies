@@ -1,0 +1,10 @@
+[
+  {
+    "repository":  "android_kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916"
+  },
+  {
+    "repository": "android_external_bson",
+    "target_path": "external/bson"
+  }
+]
